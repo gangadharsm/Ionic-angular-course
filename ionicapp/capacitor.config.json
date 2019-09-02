@@ -1,0 +1,10 @@
+{
+  "appId": "com.udemy-course.ionic-angular",
+  "appName": "ionicapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8100"
+  }
+}
